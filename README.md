@@ -8,4 +8,4 @@ http://adamcod.es/2013/03/07/composer-install-vs-composer-update.html <br/>
 <a href="http://rodush.com/2012/07/composer-minimum-stability-%D0%BF%D0%BE-%D1%83%D0%BC%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D0%B8%D1%8E-%D1%81%D1%87%D0%B8%D1%82%D0%B0%D0%B5%D1%82%D1%81%D1%8F-stable/">Composer: minimun-stability</a><br/>
 <a href="http://4devs.io/a/autoload-composer">Composer autoload</a><br/>
 <a href="http://www.balancer.ru/tech/forum/2011/05/t82115--testy-proizvoditelnost-raznykh-mekhanizmov-keshirovaniya-v-p.7369.html">результаты тестирования разных механизмов кэширования</a><br/>
-<a href="http://evtuhovich.ru/blog/2009/04/03/git-reset/">Немного git'а</a> и еще <a href="http://sethrobertson.github.io/GitFixUm/fixup.html">немного</a>
+<a href="http://evtuhovich.ru/blog/2009/04/03/git-reset/">Немного git'а</a> и еще <a href="http://sethrobertson.github.io/GitFixUm/fixup.html">немного</a>и <a href="http://lezhnevs.ru/git">тут</a>
