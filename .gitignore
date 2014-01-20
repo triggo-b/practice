@@ -1,7 +1,9 @@
 .git/
+.idea/
 .settings/
 vendor/
 composer.lock
 .zfproject.xml
 .buildpath
 .project
+application/tmp/
