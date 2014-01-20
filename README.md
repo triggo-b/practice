@@ -5,5 +5,6 @@ http://highload.com.ua/ - memcached and more<br/>
 http://zend-framework.ru/getting-started/ <br/>
 http://forum.searchengines.ru/archive/index.php/t-691502.html - отличие файлового кэша от memcached <br/>
 http://adamcod.es/2013/03/07/composer-install-vs-composer-update.html <br/>
-<a href="http://rodush.com/2012/07/composer-minimum-stability-%D0%BF%D0%BE-%D1%83%D0%BC%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D0%B8%D1%8E-%D1%81%D1%87%D0%B8%D1%82%D0%B0%D0%B5%D1%82%D1%81%D1%8F-stable/">Composer: minimun-stability</a>
-<a href="http://4devs.io/a/autoload-composer">Composer autoload</a>
+<a href="http://rodush.com/2012/07/composer-minimum-stability-%D0%BF%D0%BE-%D1%83%D0%BC%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D0%B8%D1%8E-%D1%81%D1%87%D0%B8%D1%82%D0%B0%D0%B5%D1%82%D1%81%D1%8F-stable/">Composer: minimun-stability</a><br/>
+<a href="http://4devs.io/a/autoload-composer">Composer autoload</a><br/>
+<a href="http://www.balancer.ru/tech/forum/2011/05/t82115--testy-proizvoditelnost-raznykh-mekhanizmov-keshirovaniya-v-p.7369.html">результаты тестирования разных механизмов кэширования</a><br/>
