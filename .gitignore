@@ -1,0 +1,7 @@
+.git/
+.settings/
+vendor/
+composer.lock
+.zfproject.xml
+.buildpath
+.project
